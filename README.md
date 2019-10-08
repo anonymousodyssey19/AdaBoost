@@ -1,6 +1,6 @@
 # Random Forest Classifier Project Overview:
 
-For my classification project I chose to create a model that is able to predict credit card fraud based on 29 datapoints that were collected and provided in this dataset. Obviously in the case of credit card fraud, I wanted to get as high of accuracy as possible without overfitting the model and it becoming useless when put out into the real world. So that is what I set out to achieve, a model that is able to predict credit card fraud with the highest degree of accuracy. 
+For my classification project I chose to create a model that is able to predict credit card fraud based on 29 datapoints that were collected and provided in a Kaggle dataset. Obviously in the case of credit card fraud, I wanted to get as high of accuracy as possible without overfitting the model and it becoming useless when put out into the real world. So that is what I set out to achieve, a model that is able to predict credit card fraud with the highest degree of accuracy. 
 
 # Final Model:
 
